@@ -8391,3 +8391,611 @@ Your priorities should be:
 # Day 2 End
 
 ---
+
+# Day 3 Start
+
+## 100 Conversation
+
+# 100 Spanish Conversation Scenarios
+
+### 1. En la cafetería — At the coffee shop
+
+- **Camarero:** Buenos días, ¿qué le gustaría tomar? — **Waiter:** Good morning, what would you like to drink?
+- **Cliente:** Un café con leche y un croissant, por favor. — **Customer:** A latte and a croissant, please.
+- **Camarero:** Son tres euros con cincuenta. ¿Algo más? — **Waiter:** That's three euros fifty. Anything else?
+
+### 2. En el supermercado — At the supermarket
+
+- **Empleado:** ¿Busca algo en particular? — **Employee:** Are you looking for something in particular?
+- **Cliente:** Sí, necesito leche, huevos y pan integral. — **Customer:** Yes, I need milk, eggs, and whole wheat bread.
+- **Empleado:** La leche está en el pasillo cuatro, a la derecha. — **Employee:** Milk is in aisle four, on the right.
+
+### 3. En casa — At home
+
+- **Mamá:** ¿Ya has hecho la tarea? — **Mom:** Have you done your homework yet?
+- **Hijo:** Sí, mamá, la terminé antes de cenar. — **Son:** Yes, Mom, I finished it before dinner.
+- **Mamá:** Muy bien, entonces puedes ver la televisión un rato. — **Mom:** Very good, then you can watch TV for a while.
+
+### 4. En el trabajo — At work
+
+- **Jefe:** ¿Puedes enviarme el informe antes de las cinco? — **Boss:** Can you send me the report before five?
+- **Empleado:** Claro, lo estoy revisando ahora mismo. — **Employee:** Of course, I'm reviewing it right now.
+- **Jefe:** Perfecto, avísame cuando esté listo. — **Boss:** Perfect, let me know when it's ready.
+
+### 5. En la calle — On the street
+
+- **Turista:** Disculpe, ¿dónde está la estación de metro? — **Tourist:** Excuse me, where is the subway station?
+- **Transeúnte:** Siga recto dos calles y gire a la izquierda. — **Passerby:** Go straight two blocks and turn left.
+- **Turista:** Muchas gracias, muy amable. — **Tourist:** Thank you very much, very kind.
+
+### 6. En la tienda de ropa — At the clothing store
+
+- **Dependienta:** ¿Le puedo ayudar en algo? — **Saleswoman:** Can I help you with anything?
+- **Cliente:** Sí, busco una camisa azul en talla mediana. — **Customer:** Yes, I'm looking for a blue shirt in medium.
+- **Dependienta:** Aquí tiene una, los probadores están al fondo. — **Saleswoman:** Here's one, the fitting rooms are at the back.
+
+### 7. En el consultorio médico — At the doctor's office
+
+- **Médico:** ¿Qué síntomas tiene? — **Doctor:** What symptoms do you have?
+- **Paciente:** Me duele la cabeza y tengo fiebre desde ayer. — **Patient:** My head hurts and I've had a fever since yesterday.
+- **Médico:** Le voy a recetar un analgésico y mucho reposo. — **Doctor:** I'm going to prescribe you a painkiller and lots of rest.
+
+### 8. Organizando un viaje — Organizing a trip
+
+- **Ana:** ¿Ya reservaste el hotel para el viaje? — **Ana:** Have you booked the hotel for the trip yet?
+- **Luis:** Todavía no, estoy comparando precios en internet. — **Luis:** Not yet, I'm comparing prices online.
+- **Ana:** Yo encontré uno barato cerca de la playa. — **Ana:** I found a cheap one near the beach.
+
+### 9. En el gimnasio — At the gym
+
+- **Entrenador:** ¿Cuántas veces por semana vienes al gimnasio? — **Trainer:** How many times a week do you come to the gym?
+- **Socio:** Vengo tres veces, lunes, miércoles y viernes. — **Member:** I come three times: Monday, Wednesday, and Friday.
+- **Entrenador:** Bien, hoy vamos a trabajar piernas y abdomen. — **Trainer:** Good, today we're going to work legs and abs.
+
+### 10. Haciendo planes — Making plans
+
+- **Carlos:** ¿Qué haces este fin de semana? — **Carlos:** What are you doing this weekend?
+- **María:** No tengo planes, ¿quieres hacer algo? — **María:** I don't have plans, do you want to do something?
+- **Carlos:** Podemos ir al cine el sábado por la tarde. — **Carlos:** We can go to the movies on Saturday afternoon.
+
+### 11. En la parada de autobús — At the bus stop
+
+- **Pasajera:** ¿Sabes cuánto tarda el autobús número doce? — **Passenger:** Do you know how long bus number twelve takes?
+- **Señor:** Normalmente pasa cada quince minutos. — **Gentleman:** It usually comes every fifteen minutes.
+- **Pasajera:** Gracias, llevo esperando casi media hora. — **Passenger:** Thanks, I've been waiting almost half an hour.
+
+### 12. En la panadería — At the bakery
+
+- **Panadero:** ¿Qué desea hoy? — **Baker:** What would you like today?
+- **Clienta:** Una barra de pan y seis magdalenas, por favor. — **Customer:** A baguette and six muffins, please.
+- **Panadero:** ¿Algo más? Tenemos croissants recién hechos. — **Baker:** Anything else? We have freshly made croissants.
+
+### 13. Hablando del clima — Talking about the weather
+
+- **Pedro:** ¡Qué calor hace hoy! — **Pedro:** It's so hot today!
+- **Lucía:** Sí, dicen que va a llover esta noche. — **Lucía:** Yes, they say it's going to rain tonight.
+- **Pedro:** Ojalá, porque no se puede estar en la calle. — **Pedro:** I hope so, because you can't be outside.
+
+### 14. En el parque — At the park
+
+- **Niño:** ¿Puedo jugar en el columpio? — **Child:** Can I play on the swing?
+- **Madre:** Sí, pero ten cuidado y no te alejes. — **Mother:** Yes, but be careful and don't wander off.
+- **Niño:** ¡Gracias, mamá! Voy a jugar con esos niños. — **Child:** Thanks, Mom! I'm going to play with those kids.
+
+### 15. En la cocina — In the kitchen
+
+- **Chef:** ¿Puedes picar las cebollas mientras yo sofrío el ajo? — **Chef:** Can you chop the onions while I sauté the garlic?
+- **Ayudante:** Claro, ¿las corto en trozos pequeños? — **Assistant:** Sure, should I cut them into small pieces?
+- **Chef:** Sí, y luego añadimos los tomates. — **Chef:** Yes, and then we add the tomatoes.
+
+### 16. En la estación de tren — At the train station
+
+- **Viajero:** ¿A qué hora sale el tren a Barcelona? — **Traveler:** What time does the train to Barcelona leave?
+- **Empleado:** Sale a las diez y media del andén tres. — **Employee:** It leaves at ten thirty from platform three.
+- **Viajero:** ¿Cuánto dura el trayecto? — **Traveler:** How long does the journey take?
+
+### 17. En la farmacia — At the pharmacy
+
+- **Farmacéutico:** ¿Tiene receta médica? — **Pharmacist:** Do you have a prescription?
+- **Cliente:** Sí, aquí está. Necesito también algo para la tos. — **Customer:** Yes, here it is. I also need something for a cough.
+- **Farmacéutico:** Le recomiendo este jarabe, es muy eficaz. — **Pharmacist:** I recommend this syrup, it's very effective.
+
+### 18. Hablando de mi familia — Talking about my family
+
+- **Elena:** ¿Tienes hermanos? — **Elena:** Do you have siblings?
+- **Javier:** Sí, tengo dos hermanas y un hermano menor. — **Javier:** Yes, I have two sisters and a younger brother.
+- **Elena:** ¿Y tus padres viven cerca? — **Elena:** And do your parents live nearby?
+
+### 19. En el cine — At the movie theater
+
+- **Taquillero:** ¿Para qué película quiere entradas? — **Ticket seller:** Which movie would you like tickets for?
+- **Espectador:** Para la de las ocho, dos entradas por favor. — **Moviegoer:** For the eight o'clock one, two tickets please.
+- **Taquillero:** ¿Prefiere fila central o pasillo? — **Ticket seller:** Do you prefer center row or aisle?
+
+### 20. En el restaurante — At the restaurant
+
+- **Camarero:** ¿Ya saben qué van a pedir? — **Waiter:** Do you know what you're going to order yet?
+- **Cliente:** Yo quiero la sopa del día y el pollo asado. — **Customer:** I want the soup of the day and the roast chicken.
+- **Camarero:** ¿Y para beber? — **Waiter:** And to drink?
+
+### 21. Antes de viajar — Before traveling
+
+- **Marido:** ¿Tienes el pasaporte y los billetes? — **Husband:** Do you have your passport and tickets?
+- **Esposa:** Sí, todo está en la maleta pequeña. — **Wife:** Yes, everything is in the small suitcase.
+- **Marido:** No olvides el cargador del teléfono. — **Husband:** Don't forget the phone charger.
+
+### 22. En el salón de belleza — At the beauty salon
+
+- **Estilista:** ¿Cómo quiere el corte de pelo? — **Stylist:** How would you like your haircut?
+- **Clienta:** Corto por detrás y un poco más largo delante. — **Customer:** Short in the back and a bit longer in the front.
+- **Estilista:** Perfecto, ¿también quiere peinado? — **Stylist:** Perfect, would you like it styled too?
+
+### 23. En una videollamada — On a video call
+
+- **Abuela:** ¡Hola, cariño! ¿Me ves bien? — **Grandmother:** Hi, sweetheart! Can you see me okay?
+- **Nieto:** Sí, abuela, te veo perfectamente. — **Grandson:** Yes, Grandma, I see you perfectly.
+- **Abuela:** ¿Y tú dónde estás? Se oye un poco de ruido. — **Grandmother:** And where are you? There's a bit of noise.
+
+### 24. En una cita romántica — On a romantic date
+
+- **Él:** Estás muy guapa esta noche. — **He:** You look very beautiful tonight.
+- **Ella:** Gracias, tú también estás muy elegante. — **She:** Thank you, you look very elegant too.
+- **Él:** ¿Quieres que pidamos postre? — **He:** Do you want us to order dessert?
+
+### 25. Hablando de mascotas — Talking about pets
+
+- **Sofía:** ¿Tienes mascota? — **Sofía:** Do you have a pet?
+- **Diego:** Sí, tengo un perro que se llama Toby. — **Diego:** Yes, I have a dog named Toby.
+- **Sofía:** ¡Qué bonito! Yo tengo dos gatos. — **Sofía:** How cute! I have two cats.
+
+### 26. En la carnicería — At the butcher shop
+
+- **Carnicero:** ¿Qué le pongo? — **Butcher:** What can I get you?
+- **Clienta:** Medio kilo de carne picada y cuatro chuletas. — **Customer:** Half a kilo of ground meat and four chops.
+- **Carnicero:** ¿Algo más? El pollo está fresco hoy. — **Butcher:** Anything else? The chicken is fresh today.
+
+### 27. En una fiesta — At a party
+
+- **Anfitrión:** ¡Bienvenidos! ¿Quieren algo de beber? — **Host:** Welcome! Would you like something to drink?
+- **Invitada:** Sí, un refresco por favor. — **Guest:** Yes, a soda please.
+- **Anfitrión:** La comida está en la mesa, sírvanse. — **Host:** The food is on the table, help yourselves.
+
+### 28. En la librería — At the bookstore
+
+- **Librero:** ¿Busca algún título en concreto? — **Bookseller:** Are you looking for a specific title?
+- **Cliente:** Sí, busco la última novela de ese autor. — **Customer:** Yes, I'm looking for that author's latest novel.
+- **Librero:** Está en la sección de narrativa, al fondo. — **Bookseller:** It's in the fiction section, at the back.
+
+### 29. En la zapatería — At the shoe store
+
+- **Vendedor:** ¿Qué número calza? — **Salesman:** What size do you wear?
+- **Cliente:** Calzo un cuarenta y dos. — **Customer:** I wear a forty-two.
+- **Vendedor:** Pruebe estos, son muy cómodos. — **Salesman:** Try these, they're very comfortable.
+
+### 30. Hablando de mi salud — Talking about my health
+
+- **Amiga:** ¿Cómo te sientes hoy? — **Friend:** How do you feel today?
+- **Pablo:** Mejor, aunque todavía tengo un poco de tos. — **Pablo:** Better, although I still have a bit of a cough.
+- **Amiga:** Deberías descansar y beber mucha agua. — **Friend:** You should rest and drink lots of water.
+
+### 31. En el banco — At the bank
+
+- **Empleado:** Buenos días, ¿en qué puedo ayudarle? — **Employee:** Good morning, how can I help you?
+- **Cliente:** Quiero abrir una cuenta de ahorros. — **Customer:** I want to open a savings account.
+- **Empleado:** Necesitará su documento de identidad. — **Employee:** You'll need your ID document.
+
+### 32. Un accidente doméstico — A household accident
+
+- **Mamá:** ¿Qué ha pasado? ¡Se ha roto el vaso! — **Mom:** What happened? The glass broke!
+- **Niño:** Lo siento, se me cayó sin querer. — **Child:** I'm sorry, I dropped it by accident.
+- **Mamá:** No te preocupes, pero ten cuidado con los cristales. — **Mom:** Don't worry, but be careful with the glass.
+
+### 33. En el mercado — At the market
+
+- **Vendedora:** ¡Tomates frescos! ¿Cuántos quiere? — **Vendor:** Fresh tomatoes! How many do you want?
+- **Clienta:** Un kilo, por favor. ¿Cuánto cuestan? — **Customer:** One kilo, please. How much are they?
+- **Vendedora:** Dos euros el kilo, están muy buenos. — **Vendor:** Two euros a kilo, they're very good.
+
+### 34. Hablando de las vacaciones — Talking about vacations
+
+- **Raúl:** ¿Dónde vas a ir de vacaciones este año? — **Raúl:** Where are you going on vacation this year?
+- **Marta:** Vamos a la montaña, a una casa rural. — **Marta:** We're going to the mountains, to a country house.
+- **Raúl:** ¡Qué bien! Nosotros iremos a la playa. — **Raúl:** How nice! We're going to the beach.
+
+### 35. En una discusión — In an argument
+
+- **Persona A:** No estoy de acuerdo con lo que dices. — **Person A:** I don't agree with what you're saying.
+- **Persona B:** Pues yo creo que tengo razón. — **Person B:** Well, I think I'm right.
+- **Persona A:** Hablemos con calma, así no llegamos a nada. — **Person A:** Let's talk calmly, this way we won't get anywhere.
+
+### 36. Hablando de libros — Talking about books
+
+- **Lectora:** ¿Has leído el último libro de esa autora? — **Reader:** Have you read that author's latest book?
+- **Amigo:** No todavía, ¿qué tal está? — **Friend:** Not yet, how is it?
+- **Lectora:** Es fascinante, no puedo dejar de leerlo. — **Reader:** It's fascinating, I can't put it down.
+
+### 37. Hablando del transporte público — Talking about public transportation
+
+- **Usuario:** El metro está muy lleno hoy. — **Commuter:** The subway is very crowded today.
+- **Amiga:** Sí, siempre pasa a esta hora. — **Friend:** Yes, it always happens at this time.
+- **Usuario:** Mejor tomo el autobús, es más tranquilo. — **Commuter:** I'd better take the bus, it's calmer.
+
+### 38. Pidiendo información — Asking for information
+
+- **Visitante:** Perdone, ¿me puede decir dónde está el museo? — **Visitor:** Excuse me, can you tell me where the museum is?
+- **Informante:** Está a dos calles, junto al parque. — **Informer:** It's two blocks away, next to the park.
+- **Visitante:** ¿Y abre por la tarde? — **Visitor:** And is it open in the afternoon?
+
+### 39. Hablando de mi animal favorito — Talking about my favorite animal
+
+- **Niña:** ¿Cuál es tu animal favorito? — **Girl:** What's your favorite animal?
+- **Amigo:** Mi animal favorito es el delfín. — **Friend:** My favorite animal is the dolphin.
+- **Niña:** ¡Qué inteligente! A mí me gustan los elefantes. — **Girl:** How smart! I like elephants.
+
+### 40. En el veterinario — At the vet
+
+- **Veterinaria:** ¿Qué le pasa a su perro? — **Vet:** What's wrong with your dog?
+- **Dueño:** Lleva dos días sin comer y está decaído. — **Owner:** He hasn't eaten for two days and he's listless.
+- **Veterinaria:** Vamos a hacerle un reconocimiento. — **Vet:** We're going to give him a check-up.
+
+### 41. En una fiesta de cumpleaños — At a birthday party
+
+- **Invitada:** ¡Feliz cumpleaños! Aquí tienes tu regalo. — **Guest:** Happy birthday! Here's your gift.
+- **Cumpleañera:** ¡Gracias! ¿Lo puedo abrir ahora? — **Birthday girl:** Thank you! Can I open it now?
+- **Invitada:** Claro, espero que te guste. — **Guest:** Of course, I hope you like it.
+
+### 42. Hablando de mi trabajo — Talking about my job
+
+- **Nuevo amigo:** ¿A qué te dedicas? — **New friend:** What do you do for a living?
+- **Profesional:** Trabajo como ingeniero en una empresa de tecnología. — **Professional:** I work as an engineer at a technology company.
+- **Nuevo amigo:** ¿Y te gusta tu trabajo? — **New friend:** And do you like your job?
+
+### 43. En el centro comercial — At the shopping mall
+
+- **Amiga:** ¿Vamos a ver las rebajas? — **Friend:** Shall we go see the sales?
+- **Amigo:** Sí, necesito unos pantalones nuevos. — **Friend:** Yes, I need some new pants.
+- **Amiga:** Yo quiero mirar vestidos para la boda. — **Friend:** I want to look at dresses for the wedding.
+
+### 44. Recibiendo una visita — Receiving a visitor
+
+- **Anfitriona:** ¡Hola, pasa, qué alegría verte! — **Host:** Hi, come in, what a joy to see you!
+- **Visitante:** Gracias por invitarme a cenar. — **Visitor:** Thanks for inviting me to dinner.
+- **Anfitriona:** Siéntate, la comida está casi lista. — **Host:** Sit down, the food is almost ready.
+
+### 45. En el bar — At the bar
+
+- **Camarero:** ¿Qué les pongo? — **Waiter:** What can I get you?
+- **Cliente:** Dos cervezas y una ración de patatas. — **Customer:** Two beers and a portion of potatoes.
+- **Camarero:** Marchando, ahora mismo se las traigo. — **Waiter:** Coming right up, I'll bring them now.
+
+### 46. En un día de lluvia — On a rainy day
+
+- **Hermana:** ¡Qué lluvia tan fuerte! — **Sister:** What heavy rain!
+- **Hermano:** Sí, mejor no salimos hoy. — **Brother:** Yes, we'd better not go out today.
+- **Hermana:** Vamos a ver una película y tomamos chocolate caliente. — **Sister:** Let's watch a movie and have hot chocolate.
+
+### 47. Reservando una habitación — Booking a room
+
+- **Recepcionista:** ¿En qué fechas quiere la habitación? — **Receptionist:** For what dates would you like the room?
+- **Cliente:** Del diez al quince de julio, con vistas al mar. — **Customer:** From the tenth to the fifteenth of July, with sea views.
+- **Recepcionista:** Perfecto, le confirmo la reserva por correo. — **Receptionist:** Perfect, I'll confirm the booking by email.
+
+### 48. Comprando un televisor — Buying a television
+
+- **Vendedor:** ¿Busca un televisor grande o pequeño? — **Salesman:** Are you looking for a large or small television?
+- **Cliente:** Uno de cincuenta pulgadas, para el salón. — **Customer:** A fifty-inch one, for the living room.
+- **Vendedor:** Este modelo tiene una imagen excelente. — **Salesman:** This model has an excellent picture.
+
+### 49. En la playa — At the beach
+
+- **Bañista:** ¡El agua está buenísima hoy! — **Swimmer:** The water is great today!
+- **Amiga:** Sí, pero ponte crema solar, hace mucho sol. — **Friend:** Yes, but put on sunscreen, it's very sunny.
+- **Bañista:** Tienes razón, no quiero quemarme. — **Swimmer:** You're right, I don't want to get burned.
+
+### 50. En la plaza — In the town square
+
+- **Abuelo:** ¿Vamos a sentarnos en el banco de la plaza? — **Grandfather:** Shall we sit on the square's bench?
+- **Nieto:** Sí, y luego compramos un helado. — **Grandson:** Yes, and then we'll buy an ice cream.
+- **Abuelo:** Me encanta pasar el domingo aquí contigo. — **Grandfather:** I love spending Sunday here with you.
+
+### 51. Hablando de series — Talking about TV series
+
+- **Compañera:** ¿Estás viendo alguna serie nueva? — **Colleague:** Are you watching any new series?
+- **Compañero:** Sí, una de crímenes que es muy adictiva. — **Colleague:** Yes, a crime one that's very addictive.
+- **Compañera:** ¿Cuántos episodios tiene? — **Colleague:** How many episodes does it have?
+
+### 52. En la librería — At the bookstore
+
+- **Estudiante:** ¿Tienen el diccionario de español-inglés? — **Student:** Do you have the Spanish-English dictionary?
+- **Librero:** Sí, está en la estantería de idiomas. — **Bookseller:** Yes, it's on the languages shelf.
+- **Estudiante:** ¿Cuánto cuesta? — **Student:** How much does it cost?
+
+### 53. En una llamada familiar — On a family phone call
+
+- **Tía:** ¡Hola, sobrino! ¿Cómo está la familia? — **Aunt:** Hi, nephew! How's the family?
+- **Sobrino:** Todos bien, tía. ¿Y tú? — **Nephew:** Everyone's fine, Auntie. And you?
+- **Tía:** Muy bien, os echo de menos. — **Aunt:** Very well, I miss you all.
+
+### 54. Organizando una cena — Organizing a dinner
+
+- **Organizadora:** ¿Quién trae el postre? — **Organizer:** Who's bringing dessert?
+- **Amigo:** Yo traigo una tarta de chocolate. — **Friend:** I'll bring a chocolate cake.
+- **Organizadora:** Genial, ¿alguien trae bebidas? — **Organizer:** Great, is anyone bringing drinks?
+
+### 55. En la farmacia — At the pharmacy
+
+- **Cliente:** ¿Tiene algo para el dolor de garganta? — **Customer:** Do you have something for a sore throat?
+- **Farmacéutico:** Sí, estas pastillas son muy buenas. — **Pharmacist:** Yes, these lozenges are very good.
+- **Cliente:** ¿Cuántas se toman al día? — **Customer:** How many do you take a day?
+
+### 56. En la pescadería — At the fish market
+
+- **Pescadero:** Tenemos salmón fresco hoy. — **Fishmonger:** We have fresh salmon today.
+- **Clienta:** ¿A cuánto está el kilo? — **Customer:** How much is a kilo?
+- **Pescadero:** A doce euros, está buenísimo. — **Fishmonger:** Twelve euros, it's delicious.
+
+### 57. En un paseo al aire libre — On an outdoor walk
+
+- **Senderista:** ¡Qué paisaje tan bonito! — **Hiker:** What a beautiful landscape!
+- **Compañero:** Sí, vale la pena la subida. — **Companion:** Yes, the climb is worth it.
+- **Senderista:** Vamos a descansar en esa roca. — **Hiker:** Let's rest on that rock.
+
+### 58. Hablando de deportes — Talking about sports
+
+- **Fernando:** ¿Te gusta el fútbol? — **Fernando:** Do you like soccer?
+- **Lucía:** Sí, juego en un equipo los fines de semana. — **Lucía:** Yes, I play on a team on weekends.
+- **Fernando:** ¿Y en qué posición juegas? — **Fernando:** And what position do you play?
+
+### 59. Reservando una mesa — Reserving a table
+
+- **Restaurante:** ¿Para cuántas personas? — **Restaurant:** For how many people?
+- **Cliente:** Para cuatro, mañana a las nueve. — **Customer:** For four, tomorrow at nine.
+- **Restaurante:** ¿Prefiere dentro o en la terraza? — **Restaurant:** Do you prefer inside or on the terrace?
+
+### 60. En la clase de español — In Spanish class
+
+- **Profesora:** ¿Alguien puede traducir esta frase? — **Teacher:** Can anyone translate this sentence?
+- **Alumno:** Yo, significa "I like reading". — **Student:** Me, it means "I like reading."
+- **Profesora:** Muy bien, ¿y cómo se dice "book" en español? — **Teacher:** Very good, and how do you say "book" in Spanish?
+
+### 61. Hablando de mi ocupación — Talking about my occupation
+
+- **Curioso:** ¿Cuál es tu ocupación? — **Inquirer:** What is your occupation?
+- **Enfermera:** Soy enfermera en un hospital público. — **Nurse:** I'm a nurse at a public hospital.
+- **Curioso:** Debe ser un trabajo muy duro. — **Inquirer:** It must be a very hard job.
+
+### 62. En un día de nieve — On a snowy day
+
+- **Niña:** ¡Está nevando, está nevando! — **Girl:** It's snowing, it's snowing!
+- **Padre:** Abrígate bien antes de salir. — **Father:** Wrap up warm before going out.
+- **Niña:** ¡Vamos a hacer un muñeco de nieve! — **Girl:** Let's make a snowman!
+
+### 63. Hablando de mi cantante favorito — Talking about my favorite singer
+
+- **Amiga:** ¿Quién es tu cantante favorito? — **Friend:** Who is your favorite singer?
+- **Fan:** Mi cantante favorito es un artista de pop latino. — **Fan:** My favorite singer is a Latin pop artist.
+- **Amiga:** ¿Has ido a algún concierto suyo? — **Friend:** Have you been to any of his concerts?
+
+### 64. Hablando de mi comida favorita — Talking about my favorite food
+
+- **Compañero:** ¿Cuál es tu comida favorita? — **Colleague:** What's your favorite food?
+- **Gourmet:** Mi comida favorita es la paella valenciana. — **Gourmet:** My favorite food is Valencian paella.
+- **Compañero:** ¡Qué rica! Yo prefiero la pizza. — **Colleague:** How tasty! I prefer pizza.
+
+### 65. En el zoológico — At the zoo
+
+- **Guía:** A la derecha pueden ver los leones. — **Guide:** To your right you can see the lions.
+- **Visitante:** ¡Son enormes! ¿Los alimentan ahora? — **Visitor:** They're huge! Are they being fed now?
+- **Guía:** Sí, la alimentación es a las doce. — **Guide:** Yes, feeding time is at twelve.
+
+### 66. En la heladería — At the ice cream shop
+
+- **Heladero:** ¿Qué sabor quiere? — **Ice cream vendor:** What flavor would you like?
+- **Clienta:** Dos bolas de chocolate y fresa, por favor. — **Customer:** Two scoops of chocolate and strawberry, please.
+- **Heladero:** ¿Con cono o en vaso? — **Ice cream vendor:** In a cone or a cup?
+
+### 67. En una consulta médica — At a medical consultation
+
+- **Médica:** ¿Desde cuándo tiene estos síntomas? — **Doctor:** How long have you had these symptoms?
+- **Paciente:** Desde hace tres días, sobre todo por la noche. — **Patient:** For three days, especially at night.
+- **Médica:** Vamos a hacerle unos análisis. — **Doctor:** We're going to run some tests on you.
+
+### 68. Mirando una película en casa — Watching a movie at home
+
+- **Pareja A:** ¿Qué película ponemos? — **Partner A:** Which movie shall we put on?
+- **Pareja B:** Una comedia, que hoy necesito reírme. — **Partner B:** A comedy, because today I need a laugh.
+- **Pareja A:** Vale, preparo las palomitas. — **Partner A:** Okay, I'll make the popcorn.
+
+### 69. En la juguetería — At the toy store
+
+- **Dependienta:** ¿Busca un juguete para niño o niña? — **Saleswoman:** Are you looking for a toy for a boy or a girl?
+- **Cliente:** Para una niña de cinco años. — **Customer:** For a five-year-old girl.
+- **Dependienta:** Esta muñeca es muy popular. — **Saleswoman:** This doll is very popular.
+
+### 70. Hablando de música — Talking about music
+
+- **Joven A:** ¿Qué tipo de música escuchas? — **Young A:** What kind of music do you listen to?
+- **Joven B:** Escucho rock y algo de jazz. — **Young B:** I listen to rock and some jazz.
+- **Joven A:** Yo prefiero la música clásica. — **Young A:** I prefer classical music.
+
+### 71. En la piscina — At the swimming pool
+
+- **Socorrista:** No se puede correr alrededor de la piscina. — **Lifeguard:** You can't run around the pool.
+- **Niño:** Perdón, es que tengo prisa por saltar. — **Boy:** Sorry, it's just that I'm in a hurry to jump in.
+- **Socorrista:** Espera a que el agua esté más tranquila. — **Lifeguard:** Wait until the water is calmer.
+
+### 72. Presentándome a un colega — Introducing myself to a colleague
+
+- **Nuevo:** Hola, me llamo Pablo, soy el nuevo compañero. — **Newcomer:** Hi, my name is Pablo, I'm the new colleague.
+- **Colega:** Encantada, yo soy Laura. ¿Trabajas en contabilidad? — **Colleague:** Nice to meet you, I'm Laura. Do you work in accounting?
+- **Nuevo:** Sí, empiezo hoy en el equipo. — **Newcomer:** Yes, I start today on the team.
+
+### 73. Comprando bebidas — Buying drinks
+
+- **Tendero:** ¿Qué le doy? — **Shopkeeper:** What can I get you?
+- **Cliente:** Dos botellas de agua y un zumo de naranja. — **Customer:** Two bottles of water and an orange juice.
+- **Tendero:** ¿Las quiere frías? — **Shopkeeper:** Do you want them cold?
+
+### 74. Comprando verduras — Buying vegetables
+
+- **Clienta:** ¿Cuánto cuestan las zanahorias? — **Customer:** How much are the carrots?
+- **Vendedor:** Un euro el kilo, están muy tiernas. — **Vendor:** One euro a kilo, they're very tender.
+- **Clienta:** Póngame dos kilos, por favor. — **Customer:** Give me two kilos, please.
+
+### 75. En la papelería — At the stationery store
+
+- **Empleado:** ¿Necesita algo más? — **Employee:** Do you need anything else?
+- **Cliente:** Sí, un cuaderno y dos bolígrafos azules. — **Customer:** Yes, a notebook and two blue pens.
+- **Empleado:** ¿Prefiere el cuaderno de hojas rayadas? — **Employee:** Do you prefer the lined notebook?
+
+### 76. Almorzando con una amiga — Having lunch with a friend
+
+- **Amiga A:** ¿Qué vas a pedir? — **Friend A:** What are you going to order?
+- **Amiga B:** Una ensalada César, que quiero algo ligero. — **Friend B:** A Caesar salad, because I want something light.
+- **Amiga A:** Yo pediré pasta, tengo mucha hambre. — **Friend A:** I'll order pasta, I'm very hungry.
+
+### 77. Tomando un taxi — Taking a taxi
+
+- **Pasajero:** Al centro, por favor. — **Passenger:** To downtown, please.
+- **Taxista:** ¿Por la autopista o por la ciudad? — **Taxi driver:** By the highway or through the city?
+- **Pasajero:** Por la autopista, tengo prisa. — **Passenger:** By the highway, I'm in a hurry.
+
+### 78. Antes de un examen — Before an exam
+
+- **Estudiante A:** ¿Estás nervioso por el examen? — **Student A:** Are you nervous about the exam?
+- **Estudiante B:** Mucho, no dormí bien anoche. — **Student B:** A lot, I didn't sleep well last night.
+- **Estudiante A:** Respira, lo vas a hacer genial. — **Student A:** Breathe, you're going to do great.
+
+### 79. En el hotel — At the hotel
+
+- **Recepcionista:** ¿A nombre de quién está la reserva? — **Receptionist:** Under whose name is the reservation?
+- **Huésped:** A nombre de García, para dos noches. — **Guest:** Under García, for two nights.
+- **Recepcionista:** Aquí tiene su llave, habitación doscientos tres. — **Receptionist:** Here's your key, room two hundred three.
+
+### 80. En la tienda de celulares — At the cell phone store
+
+- **Vendedor:** ¿Busca un teléfono nuevo o una reparación? — **Salesman:** Are you looking for a new phone or a repair?
+- **Cliente:** Una reparación, la pantalla está rota. — **Customer:** A repair, the screen is broken.
+- **Vendedor:** El arreglo cuesta cincuenta euros. — **Salesman:** The repair costs fifty euros.
+
+### 81. Un domingo en casa — A Sunday at home
+
+- **Padre:** ¿Qué hacemos hoy, familia? — **Father:** What are we doing today, family?
+- **Hija:** Podemos cocinar juntos y ver una peli. — **Daughter:** We can cook together and watch a movie.
+- **Padre:** Me parece un plan perfecto. — **Father:** That sounds like a perfect plan.
+
+### 82. Hablando del desayuno — Talking about breakfast
+
+- **Compañera:** ¿Qué desayunas normalmente? — **Colleague:** What do you usually have for breakfast?
+- **Compañero:** Tomo café con tostadas y fruta. — **Colleague:** I have coffee with toast and fruit.
+- **Compañera:** Yo prefiero cereales con leche. — **Colleague:** I prefer cereal with milk.
+
+### 83. Hablando de redes sociales — Talking about social media
+
+- **Amiga:** ¿Cuánto tiempo pasas en las redes sociales? — **Friend:** How much time do you spend on social media?
+- **Amigo:** Demasiado, quiero reducirlo. — **Friend:** Too much, I want to cut down.
+- **Amiga:** Yo solo las uso para hablar con amigos. — **Friend:** I only use them to talk with friends.
+
+### 84. Haciendo un pedido por teléfono — Placing an order by phone
+
+- **Restaurante:** ¿Para recoger o a domicilio? — **Restaurant:** For pickup or delivery?
+- **Cliente:** A domicilio, una pizza margarita. — **Customer:** Delivery, one margherita pizza.
+- **Restaurante:** Llega en treinta minutos, gracias. — **Restaurant:** It'll arrive in thirty minutes, thank you.
+
+### 85. En el jardín — In the garden
+
+- **Abuela:** ¿Me ayudas a regar las plantas? — **Grandmother:** Will you help me water the plants?
+- **Nieto:** Claro, abuela. ¿Dónde está la regadera? — **Grandson:** Of course, Grandma. Where's the watering can?
+- **Abuela:** Está junto al manzano. — **Grandmother:** It's next to the apple tree.
+
+### 86. En el ascensor — In the elevator
+
+- **Vecino:** Buenos días, ¿va hacia arriba? — **Neighbor:** Good morning, are you going up?
+- **Vecina:** Sí, al quinto. ¿Puede pulsar el botón? — **Neighbor:** Yes, to the fifth floor. Can you press the button?
+- **Vecino:** Hecho, que tenga buen día. — **Neighbor:** Done, have a good day.
+
+### 87. Hablando de hábitos — Talking about habits
+
+- **Coach:** ¿Tienes buenos hábitos de sueño? — **Coach:** Do you have good sleep habits?
+- **Cliente:** Intento dormir ocho horas cada noche. — **Client:** I try to sleep eight hours every night.
+- **Coach:** Muy bien, eso es fundamental para la salud. — **Coach:** Very good, that's essential for health.
+
+### 88. Pidiendo wifi — Asking for Wi-Fi
+
+- **Huésped:** ¿Me puede dar la contraseña del wifi? — **Guest:** Can you give me the Wi-Fi password?
+- **Recepcionista:** Claro, es "hotel2024". — **Receptionist:** Of course, it's "hotel2024".
+- **Huésped:** Gracias, ¿la conexión es rápida? — **Guest:** Thanks, is the connection fast?
+
+### 89. Hablando de mi ropa favorita — Talking about my favorite clothes
+
+- **Amiga:** ¿Cuál es tu prenda favorita? — **Friend:** What's your favorite piece of clothing?
+- **Amigo:** Mi chaqueta vaquera, la llevo siempre. — **Friend:** My denim jacket, I always wear it.
+- **Amiga:** A mí me encantan los vestidos de verano. — **Friend:** I love summer dresses.
+
+### 90. En la tienda de souvenirs — At the souvenir shop
+
+- **Turista:** ¿Tiene postales de la ciudad? — **Tourist:** Do you have postcards of the city?
+- **Dependiente:** Sí, aquí tiene varias. ¿Cuántas quiere? — **Shop assistant:** Yes, here are several. How many do you want?
+- **Turista:** Tres, por favor. ¿Y una taza también? — **Tourist:** Three, please. And a mug too?
+
+### 91. Hablando de miedos — Talking about fears
+
+- **Amiga:** ¿A qué le tienes miedo? — **Friend:** What are you afraid of?
+- **Amigo:** A las alturas, no puedo subir a sitios altos. — **Friend:** Heights, I can't go up to high places.
+- **Amiga:** Yo les tengo miedo a las arañas. — **Friend:** I'm afraid of spiders.
+
+### 92. Pidiendo direcciones — Asking for directions
+
+- **Perdido:** ¿Cómo llego a la catedral? — **Lost person:** How do I get to the cathedral?
+- **Transeúnte:** Siga esta calle y gire a la derecha en el semáforo. — **Passerby:** Follow this street and turn right at the traffic light.
+- **Perdido:** ¿Está muy lejos? — **Lost person:** Is it very far?
+
+### 93. Pidiendo la hora — Asking for the time
+
+- **Persona A:** Perdone, ¿tiene hora? — **Person A:** Excuse me, do you have the time?
+- **Persona B:** Sí, son las tres y cuarto. — **Person B:** Yes, it's a quarter past three.
+- **Persona A:** Gracias, no quería llegar tarde. — **Person A:** Thanks, I didn't want to be late.
+
+### 94. Haciendo planes — Making plans
+
+- **Carmen:** ¿Qué tal si cenamos el viernes? — **Carmen:** How about we have dinner on Friday?
+- **Diego:** Me viene bien, ¿a las ocho? — **Diego:** That works for me, at eight?
+- **Carmen:** Perfecto, reservo en el italiano del centro. — **Carmen:** Perfect, I'll book at the Italian place downtown.
+
+### 95. En la agencia de viajes — At the travel agency
+
+- **Agente:** ¿Qué destino le interesa? — **Agent:** What destination interests you?
+- **Cliente:** Quiero un paquete a Cancún para dos personas. — **Customer:** I want a package to Cancún for two people.
+- **Agente:** Tenemos una oferta con vuelo y hotel incluido. — **Agent:** We have an offer with flight and hotel included.
+
+### 96. En el metro — On the subway
+
+- **Pasajera:** ¿Este tren va a la estación central? — **Passenger:** Does this train go to the central station?
+- **Viajero:** Sí, pero tiene que cambiar en la próxima parada. — **Traveler:** Yes, but you have to change at the next stop.
+- **Pasajera:** Gracias, casi me bajo en la equivocada. — **Passenger:** Thanks, I almost got off at the wrong one.
+
+### 97. Hablando de idiomas — Talking about languages
+
+- **Estudiante A:** ¿Cuántos idiomas hablas? — **Student A:** How many languages do you speak?
+- **Estudiante B:** Hablo español, inglés y un poco de francés. — **Student B:** I speak Spanish, English, and a little French.
+- **Estudiante A:** ¡Qué envidia! Yo quiero aprender italiano. — **Student A:** I'm so envious! I want to learn Italian.
+
+### 98. Hablando de emociones — Talking about emotions
+
+- **Amiga:** ¿Cómo te sientes hoy? — **Friend:** How do you feel today?
+- **Amigo:** Estoy contento, aprobé el examen. — **Friend:** I'm happy, I passed the exam.
+- **Amiga:** ¡Me alegro mucho! Te lo merecías. — **Friend:** I'm so glad! You deserved it.
+
+### 99. En una escuela de idiomas — At a language school
+
+- **Recepcionista:** ¿En qué nivel está interesado? — **Receptionist:** What level are you interested in?
+- **Alumno:** Quiero un curso intermedio de español. — **Student:** I want an intermediate Spanish course.
+- **Recepcionista:** Las clases son martes y jueves por la tarde. — **Receptionist:** Classes are Tuesday and Thursday afternoons.
+
+### 100. Describiendo mi casa — Describing my house
+
+- **Amiga:** ¿Cómo es tu casa nueva? — **Friend:** What's your new house like?
+- **Dueño:** Es pequeña pero muy luminosa, con un jardín bonito. — **Owner:** It's small but very bright, with a nice garden.
+- **Amiga:** ¡Qué ganas tengo de visitarla! — **Friend:** I can't wait to visit it!
+
+# Day 3 End
